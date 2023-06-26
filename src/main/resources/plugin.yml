@@ -1,0 +1,4 @@
+name: NoMendingTrade
+version: '${version}'
+main: com.azlagor.nomendingtrade.NoMendingTrade
+api-version: '1.20'
